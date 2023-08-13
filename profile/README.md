@@ -1,6 +1,5 @@
-## Servicios Tecnologicos de la Informacion GT(STI-GT)
-
+# GT2 Software
 Somos un pequeño grupo de emprendedores, que brinda consultoria y asesoria en:
-- Desarrollo de software
-- Analisis de datos e inteligencia de negocios
-- Infraestructura y telecomunicaciones
+- Desarrollo de aplicaciones y páginas web
+- Infraestructura
+- Automatización de procesos (RPA)
